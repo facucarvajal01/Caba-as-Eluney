@@ -1,0 +1,24 @@
+.colormarron{
+    color: maroon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.colorrojo{
+    color: red;
+}
+
+/*BOX MODEL
+TODAS etiquetas lo tienen
+section{
+background-color:
+width: 200px;
+border-style:
+border-color:
+border-width:
+o esta opcion
+border: solid color 12px;
+}/*
